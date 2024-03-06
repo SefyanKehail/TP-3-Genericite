@@ -1,2 +1,2 @@
 <h3>TP-3 : Généricité </h3>
-<p>Chaque exercice a son propre dossier.</p>
+<p>Veuillez lancer chaque exercice dans un project, Le dossier parent TP-3-Genericite est juste pour l'organisation</p>
